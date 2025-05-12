@@ -25,7 +25,7 @@ With a strong foundation in Python, Web development, Vulnerability assessments, 
 ## Let's Connect
 - GitHub: https://github.com/Godwin015
 - LinkedIn: https://www.linkedin.com/in/godwin-edward-25961825a
-- Whatsapp: https://wa.me/<+2347030947241
+- Whatsapp: https://wa.me/+2347030947241
 -Email: godwynedward015@gmail.com 
 > “Tech is not just a career for me—it's a tool for transformation.”
 Thanks for visiting!
