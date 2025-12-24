@@ -21,6 +21,7 @@ With a strong foundation in Python, Web development, Vulnerability assessments, 
 - Young Innovative Builders (NITDA) – State Winner
 - Honeypot Deployment and Analysis – Cybersecurity research
 - E-commerce VTU Platform – Airtime, data, bill payments, and reseller programs
+- School Payment Portal - With QR code on payment receipt for offline verification
 ## Let's Connect
 - GitHub: https://github.com/Godwin015
 - LinkedIn: https://www.linkedin.com/in/godwin-edward/
